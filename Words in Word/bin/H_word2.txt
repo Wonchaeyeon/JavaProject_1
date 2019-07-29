@@ -1,0 +1,30 @@
+direction	방향,지시
+dialog(ue)	대화
+republic	공화국
+method	방법
+increase	증가, [동]증가하다
+decrease	감소, [동]감소하다
+amount	양,액수,총계
+ancestor	조상,선조
+voyage	항해
+sculpture	조각(품)
+instrument	기계, 기구, 도구
+figure	숫자, 계산, 모습, 인물
+activity	활동
+cause	원인, 이유
+worth	가치, ~에 가치가 있는
+accident	사고, 뜻밖의 사건
+adventure	모험
+view	경치, 의견
+relative	친척, 관계가 있는
+superstition	미신
+habit	습관, 버릇
+wealth	재산, 부
+treasure	보물
+universe	우주, 전세계
+adult	성인, 성인의
+feast	향연, 잔치
+resources	자원, 수단
+ruin	파멸
+monument	기념비, 기념물
+information	정보, 지식, 통지

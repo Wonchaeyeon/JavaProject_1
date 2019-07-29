@@ -1,0 +1,30 @@
+ago	~전에
+air	공기, 공중
+airplane	비행기
+airport	공항, 비행장
+album	앨범, 사진첩
+all	모든, 모두, 전부
+afraid	무서워하여, 두려워하여
+after	~뒤에, ~다음에
+burnt	burn의 과거, 과거분사형
+bus	버스
+busy	바쁜
+but	그러나, 그렇지만
+butter	버터
+button	단추, (벨의)누름단추
+buy	사다
+zero	영(0), 영의
+zoo	동물원
+young	젊은, 어린
+weak	약한, 힘없는, 허약한
+wear	(옷을)입다
+weather	날씨, 기후
+week	주, 1주일
+welcome	환영하다
+well	잘, 훌륭하게
+west	서쪽
+beach	해변, 바닷가
+bear	곰, 참다, 견디다
+cat	고양이
+catch	잡다
+cow	암소

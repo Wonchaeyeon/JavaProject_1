@@ -1,0 +1,30 @@
+bread	빵
+break	깨다, 부수다
+breakfast	아침식사
+bridge	다리, 교량
+bright	밝은, 눈부신, 빛나는
+bring	가져오다, 데려오다
+brother	형제, 형, 오빠, 남동생
+brown	갈색의, 밤색의, 갈색, 밤색
+club	클럽, 모임
+coat	코트, 외투
+coffee	커피
+coin	동전
+cold	추운, 차가운
+color	빛깔, 색
+come	오다
+comic book	만화책
+computer	컴퓨터
+cook	요리사
+cool	시원한, 서늘한
+copy	그대로 옮겨 쓰다
+corner	구석, 모퉁이
+count	세다
+doll	인형
+dollar	달러(미국의 화폐단위)
+dolphin	돌고래
+door	문
+down	아래로, 낮은 곳으로
+draw	~을 그리다, 끌다, 끌어당기다
+dream	꿈
+bicycle	자전거

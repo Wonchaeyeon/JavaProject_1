@@ -1,0 +1,30 @@
+surface	표면
+electricity	전기
+order	순서, 명령
+spirit	정신
+purpose	목적
+promise	가망, 전망, 약속
+project	계획, 계획하다
+government	정부, 정치의
+exercise	운동, 연습하다
+comparison	비교
+interest	이익, 흥미
+funeral	장례식
+senior	선배, 손위에
+junior	후배,손아래에
+democracy	민주주의,민주정치
+general	육군장군
+admiral	해군대장
+edge	날,가장자리
+biology 생물학
+danger	위험
+advice	충고
+practice	연습하다
+mammal	포유동물
+grade	학년
+score	점수
+pause	중지,멈추다
+pronunciation	발음 
+stress	압박,강조하다
+contest	경쟁
+horizon	수평선의

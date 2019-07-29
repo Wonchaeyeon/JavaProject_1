@@ -1,0 +1,30 @@
+a	하나의
+act	행동하다, 행동,행위
+actor	영화배우
+box	상자
+boy	소년, 사내아이
+age	나이, 연령
+baby	아기
+back	뒤, 등, 돌아오다
+bad	(행동이) 나쁜, 옳지 않은
+bag	자루, 가방
+ball	공
+balloon	풍선
+banana	바나나
+band	밴드, 악단
+bank	은행
+base	바닥, 밑면, (야구의)베이스
+cream	크림, 크림색의
+cross	(길 따위를) 건너다
+cry	울다, 외치다
+cup	컵, 잔
+curtain	커튼
+cut	자르다
+cute	귀여운
+cake	케이크
+book	책
+bottle	병
+too	또한, 역시, 너무, 지나치게
+tooth	이, 치아
+top	꼭대기, 한껏, 최고
+dog	개

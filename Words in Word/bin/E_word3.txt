@@ -1,0 +1,30 @@
+wet	젖은
+along	~을 따라서
+always	항상, 언제나
+among	~사이에, ~가운데
+an	하나의
+and	그리고, ~와
+angry	화난, 성난
+animal	동물, 짐승
+answer	대답, 대답하다
+any	어떤, 무슨, 무언가
+apartment	아파트
+arm	팔
+toy	장난감
+train	기차
+travel	여행하다
+tree	나무
+trip	여행
+truck	트럭
+true	진실의, 정말인
+very	아주, 대단히
+video	비디오
+village	마을
+violin	바이올린
+visit	방문하다
+across	~을 가로질러, ~을 건너서
+address	주소,연설
+afternoon	오후
+again	또, 다시 한 번
+chair	의자
+chalk	분필, 백묵
